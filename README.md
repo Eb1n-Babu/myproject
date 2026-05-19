@@ -32,3 +32,5 @@ myproject/                  # Root folder
 │   └── .env                # Environment variables (e.g., API URL)
 ├── .gitignore              # Git ignore file
 └── README.md               # Project documentation
+
+failed in connecting react with django
